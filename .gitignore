@@ -1,0 +1,6 @@
+.eggs
+.github
+build
+dist
+mt3.egg-info
+__pycache__
